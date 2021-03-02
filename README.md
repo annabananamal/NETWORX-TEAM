@@ -7,3 +7,4 @@ Artwork #1
 <br>
 https://www.webtoons.com/en/challenge/that-world/list?title_no=588216
 <br>
+This Webtoon was my Personal Project. I created it to portray the idea of technology that is slowly taking over the world by having more and more people addicted to it. I have not had much experience with digital art and this is only the fourth one i've made so far. The main character, which describes almost every teen is going through a life of hardships because of technology. However, he doesn't know that it is his beloved electronic device that is causing it. There are many consequences in being addicted to Technology nad some may not even know they are. Will the humans be able to control their desire of power and internet, or will the succumb to the lures of the digital world?
