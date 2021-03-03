@@ -1,6 +1,6 @@
  <h1> Networx </h1>
 <br>
-{ font-family: Arial; font-size: 15px; font-style: normal;}
+{ font-family: Arial; font-size: 15px; font-style: normal; }
 <br>
 LOGO; 
 <br>
