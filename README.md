@@ -9,7 +9,7 @@ Pink: RGB(236, 126, 155)
 <br>
 font: calibri 
 <br>
-code for calibri font=
+code for calibri font=body { font-family: 'Calibri', Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
 <br>
 logo font= menlo
 <br>
