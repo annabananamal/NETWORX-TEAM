@@ -1,4 +1,5 @@
-<img src=
+<img src=![networx](https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg)
+
 colors (same as used in the logo);
 Blue: RGB(31, 59, 188)
 Pink: RGB(236, 126, 155)
