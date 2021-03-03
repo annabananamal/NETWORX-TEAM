@@ -13,5 +13,5 @@ code for calibri font={ font-family: Arial; font-size: 15px; font-style: normal;
 <br>
 logo font= menlo
 <br>
-code for menlo font= {Menlo-Regular;  font- family; Menlo: Style; regular}
-im add more stuff later on 
+code for menlo font= {font- family: Menlo; font-size: 35px ; font-style; regular; }
+im add more stuff later on-sj
