@@ -1,14 +1,19 @@
-<img src=![networx](https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg)
-
+<<<<<<< Updated upstream
+<img src=!(https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg)
+<br>
 colors (same as used in the logo);
+<br>
 Blue: RGB(31, 59, 188)
+<br>
 Pink: RGB(236, 126, 155)
-
+<br>
 font: calibri 
+<br>
 code for calibri font=
+<br>
+logo font= menlo
+<br>
+code for menlo font= 
 
-logo font: Menlo 
-website colors=same as logo (pink & blue)? blue RGB(31, 59, 188) hex:#1F3BBC and pink RGB(236, 126, 155) hex:#EC7E9B 
-RGM colors
-logo
-fonts
+
+>>>>>>> Stashed changes
