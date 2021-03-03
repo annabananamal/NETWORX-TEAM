@@ -7,10 +7,11 @@ Blue: RGB(31, 59, 188)
 <br>
 Pink: RGB(236, 126, 155)
 <br>
-font: calibri 
+font: Arial
 <br>
-code for calibri font=body { font-family: 'Calibri', Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
+code for calibri font={ font-family: Arial; font-size: 15px; font-style: normal;}
 <br>
 logo font= menlo
 <br>
-code for menlo font= 
+code for menlo font= {Menlo-Regular;  font- family; Menlo: Style; regular}
+im add more stuff later on 
