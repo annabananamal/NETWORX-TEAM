@@ -1,7 +1,7 @@
 # NETWORX-TEAM
 things to add;
 <br>
-font: space mono?
+font: calibri
 <br>
 logo font: Menlo
 <br>
