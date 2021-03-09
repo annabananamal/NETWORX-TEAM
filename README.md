@@ -18,4 +18,5 @@ Since I have been so immersed in my personal project I haven't had time to creat
 <br>
 <strong> Artworx #3 </strong>
 https://youtu.be/xdYoSF43jzQ - video process
-<img src="https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-15/e35/p480x480/159259194_110828654300143_4337265683701342794_n.jpg?tp=1&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=G4f6qkLt-1EAX_mrEzv&oh=ee62698968d15b06f6538d696a05debc&oe=6072DB5A&ig_cache_key=MjUyNTg5NzE0OTIzMTQyMDU5NA%3D%3D.2">
+<br>
+
