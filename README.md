@@ -1,7 +1,9 @@
 # NETWORX-TEAM
 ARTWORX PAGE
 <br>
-<strong> Artwork #1 </strong>
+<strong> Artwork #1 </strong> 
+<br>
+(by Anna)
 <br>
 https://www.webtoons.com/en/challenge/that-world/list?title_no=588216
 <br>
@@ -11,12 +13,16 @@ This Webtoon was my Personal Project. I created it to portray the idea of techno
 <br>
 <strong> Artwork #2 </strong>
 <br>
+(by Anna)
+<br>
 <img src="https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/156184857_2269644689834961_3598241644428458615_n.jpg?tp=1&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4FeP3zY9TVcAX8bhQJA&oh=a5ea351f6da451d432167e9b121493a9&oe=60685A0F&ig_cache_key=MjUyMDgyNDMzMDkzNjI3MjIwMg%3D%3D.2">
 <br>
 Since I have been so immersed in my personal project I haven't had time to create a really detailed pieces digitally. I have only had time to make fanart for my idol's birthdays. This above is a fanart I made for jisung park's birthday. 
 <br>
 <br>
 <strong> Artworx #3 </strong>
+<br>
+(by Anna)
 <br>
 https://youtu.be/xdYoSF43jzQ - video process
 <br>
