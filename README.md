@@ -1,5 +1,4 @@
- <html>
-<html lang="en">
+ <html lang="en">
 <head>
 <style>
 body {
@@ -90,7 +89,7 @@ body {
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
   <a href="https://sajjad172.github.io/artworx.page/">Artworx Page</a>
-   <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
+  <a href="https://sajjad172.github.io/sumbit.art/" class="right" class="center">Submit your Art!</a>
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -171,14 +170,14 @@ input[type=submit]:hover {
 
 <div class="container">
   <div style="text-align:center"><br>
-    <h2 style="color:blue ;">Contact US</h2>
-    <p><em><strong>Have a concern about the website or want to give feedback:</strong></em></p></div>
+    <h2 style="color:#5aa469 ;">Submit your art here!</h2></div>
+ 
   <div class="row">
     <div class="column">
-      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/mong%20us.jpg"  style="width:100%">
+      <img src="https://raw.githubusercontent.com/sajjad172/aboutuspictures/main/A2AA80C7-0004-4447-A465-010C641E91EE%20(2).jpg"  style="width:100%" >
     </div>
     <div class="column">
-       <form action="https://formspree.io/f/mdopqkdk" method="POST">
+       <form action="https://formspree.io/f/mrgonlzp" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
         <label for="fname"> Name</label>
         <input type="text" id="fname" name="Name" placeholder="Your name..." required>
@@ -192,14 +191,12 @@ input[type=submit]:hover {
           <option value="australia">Australia</option>
           <option value="europe">Europe</option>
         </select>
-        <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Write us..." style="height:200px" required></textarea>
+          <input type="file" id="myFile" name="filename" required>
+          <br>
+          <br>
+        <label for="subject">Tell us about your art!</label>
+    <textarea id="subject" name="subject" placeholder="Write us about your art..." style="height:200px" required></textarea>
      <input type="submit" value="Submit">
       </form>
     </div>
   </div>
-
-
-
-
-
