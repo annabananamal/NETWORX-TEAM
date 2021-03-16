@@ -76,12 +76,7 @@ body {
   padding: 20px;
 }
 
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: rgb(31, 58, 187);
 
-}
 
 </style>
 <body>
@@ -111,7 +106,11 @@ p {
 
 <br>
 <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%">
-
+<br>
+  <div style="text-align:center"><h3> Who are we? </h3>
+  <p><em>We are a team of 4 wanting to fulfill teenagers goals and inform them about the real world and help them not only academically but also give you information about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, tutoring, how to code, etc. Below we have all the information teenagers should know to be prepared into the real world.</em></p>
+  
+</div>
 <div style="text-align:center">
     <h2 style="color:#ae0700 ;">Driver's Ed</h2>
   </div>
@@ -144,7 +143,7 @@ p {
  </div>
 
     <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intro.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%"><br>
-    <p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license. Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMV website where you can make appoinments and learn. There you go all the things you need for your license!</p></div>
+    <p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license. Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMV website where you can make appoinments and learn. There you go all the things you need for your license!</p>
     
         
    
@@ -206,7 +205,7 @@ p {
 <h5><strong>Why should you code?</strong></h5>
 <p>We all have hopes, dreams, and plans for the future. Whether you’re looking for a new opportunity, want to optimize your current job, or are simply searching for a new hobby, coding can help you get closer to your goals. And remember, anyone can learn how to code!</p>
 <h5><strong>Make cool stuff</strong></h5>
-<p><em> Ever wanted to make an app or a website? Code does that. It can also help you automate a spreadsheet or create new tools for your community. Learning to code makes it possible to imagine the things you want to make and actually build them. You also have loads of fun!</em></p>
+<p>Ever wanted to make an app or a website? Code does that. It can also help you automate a spreadsheet or create new tools for your community. Learning to code makes it possible to imagine the things you want to make and actually build them. You also have loads of fun!</p>
 <br>
     <p><strong> The link below teaches how to write a Program: Coding, Testing & Debugging!</strong> <br><br>
     <a href="https://study.com/academy/lesson/how-to-write-a-program-coding-testing-debugging.html"><button>Learn Code</button> </a></p>
@@ -220,6 +219,7 @@ p {
     <a href="https://www.freecodecamp.org/"><button>Start coding for free!</button> </a></p>
     <div style="text-align:center">
     <h2 style="color:Violet ;">Taxes</h2>
+    <img src="https://d1dh93s7n44ml6.cloudfront.net/blog/wp-content/uploads/2017/05/03095853/analyze-your-taxes.jpg" alt="taxes picture" height="260">
    </div>
      <div style="text-align:center">
  <p><em><strong>Do you want learn how taxes work ? It may seem complicated so we have provided infromation to help! </strong></em></p>
@@ -271,10 +271,15 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
  <p><strong>If you would like to use a free editing tool click below
  <br></strong>
     <a href="https://pixlr.com/e/"><button>Free editing tool
-</button> </a></p>
+</button> </a></p><br>
+<br>
+<br>
+<div style="text-align:center">
+<p><strong><em>Thank you for viewing our website our team hopes you learned something new! If you would like for us to teach you about a new topic </em> <a href="https://sajjad172.github.io/contact-us-page/">Click here</a></strong></p></div>
 <div class="footer">
-  <h2>put social media stuff here</h2>
+  
 </div>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -328,3 +333,4 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
